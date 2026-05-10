@@ -44,19 +44,19 @@
 **Задача**: Оценить влияние обучающего блока о финансовых рисках на удержание и повторные депозиты новых пользователей в Латинской Америке  
 **Инструменты**: Python (pandas, scipy, statsmodels), бутстрап, funnel analysis, Z/t-тесты  
 **Результат**: Конверсия во второй депозит выросла на **+60,9%** (p < 0,001); фича рекомендована к внедрению как инструмент повышения качества клиентской базы  
-[🔗 Подробнее →]([./Data-Analytics-Portfolio/fintech-onboarding-ab](https://github.com/AnastasiaPatrusheva/Data-Analytics-Portfolio/tree/master/fintech-onboarding))
+[🔗 Подробнее →](https://github.com/AnastasiaPatrusheva/Data-Analytics-Portfolio/tree/master/fintech-onboarding)
 
 ### 📈 Проект 2: Юнит-экономика и оптимизация каналов привлечения (Procrastinate Pro+)
 **Задача**: Выявить причины стагнации выручки при росте аудитории после запуска нового контента; рассчитать CAC, LTV₂₈, ROI по 4 каналам  
 **Инструменты**: Python (pandas, seaborn), когортный анализ, тепловые карты, статистическая проверка гипотез  
 **Результат**: Выявлен канал с **ROI +170%**; сформулирована рекомендация по перераспределению бюджета, прогноз роста общего ROI с 1,2× до 2,0×  
-[🔗 Подробнее →]([./Data-Analytics-Portfolio/unit-economics-channels](https://github.com/AnastasiaPatrusheva/Data-Analytics-Portfolio/tree/master/unit-economics-channels))
+[🔗 Подробнее →](https://github.com/AnastasiaPatrusheva/Data-Analytics-Portfolio/tree/master/unit-economics-channels)
 
 ### 🛒 Проект 3: Поиск точек роста маркетплейса + микро-эксперимент
 **Задача**: Найти причины падения монетизации во второй половине года; протестировать гипотезу стимулирования низкоконверсионного трафика  
 **Инструменты**: Python (pandas, plotly, scipy), сегментация, воронки, A/B-тест, Z-тест  
 **Результат**: Бонус на первую покупку дал **+651%** к конверсии среди пользователей TikTok (p < 0,000001); механика рекомендована к масштабированию при контроле стоимости стимула  
-[🔗 Подробнее →]([./Data-Analytics-Portfolio/marketplace-growth-ab](https://github.com/AnastasiaPatrusheva/Data-Analytics-Portfolio/tree/master/marketplace-analysis))
+[🔗 Подробнее →](https://github.com/AnastasiaPatrusheva/Data-Analytics-Portfolio/tree/master/marketplace-analysis)
 
 ---
 
