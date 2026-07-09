@@ -5,9 +5,9 @@
 
 ## 📋 Обо мне
 
-Работаю аналитиком данных. Параллельно с обучением (1,5 года) 4,5 года занималась бизнес- и системным анализом в RPA-стартапе: собирала требования, писала ТЗ, координировала запуск решений для банков и ритейла.
+Перехожу в аналитику данных из бизнес- и системного анализа. 4,5 года работала в RPA-стартапе: собирала требования, писала ТЗ, координировала запуск решений для банков и ритейла. Последние 1,5 года учусь на аналитика данных и собираю портфолио проектов.
 
-Мне интересно находить в данных ответы на бизнес-вопросы и оформлять их так, чтобы результат был понятен и команде, и стейкхолдерам. 
+Мне интересно находить в данных ответы на бизнес-вопросы и оформлять их так, чтобы результат был понятен и команде, и стейкхолдерам. А ещё умею довести данные до продукта — собрать пайплайн и дашборд от сбора до деплоя. 
 
 **Сейчас фокусируюсь на**:
 - Продуктовой аналитике и проверке гипотез
@@ -23,16 +23,26 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Altair](https://img.shields.io/badge/Altair-1E88E5?style=flat-square)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-3F51B5?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Yandex DataLens](https://img.shields.io/badge/DataLens-FC6F66?style=flat-square&logo=yandex&logoColor=white)
 
 **Базы данных и Big Data** 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 **Оркестрация и инструменты** 
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -71,7 +81,7 @@
 Позицию **Data Analyst**, где смогу:
 - Применять и развивать навыки: Python, SQL, статистика, визуализация
 - Участвовать в решении реальных бизнес-задач с измеримым результатом
-- Расти как специалист в среде, где важны данные, эксперименты и обратная связьа
+- Расти как специалист в среде, где важны данные, эксперименты и обратная связь
 
 ---
 
@@ -82,5 +92,5 @@
 Связаться со мной:
 
 [✉️ Написать в Telegram](https://t.me/Anastasia1735)  
-[📧 Отправить на Email](a_patrusheva@internet.ru)  
+[📧 Отправить на Email](mailto:a_patrusheva@internet.ru)  
 [📄 Посмотреть резюме на HH](https://hh.ru/resume/b5182467ff105ec7530039ed1f5665664f6d77)
