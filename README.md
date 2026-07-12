@@ -33,6 +33,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Yandex DataLens](https://img.shields.io/badge/DataLens-FC6F66?style=flat-square&logo=yandex&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white)
 
 **Базы данных и Big Data** 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
@@ -71,8 +72,14 @@
 ### 🛒 Проект 4: Поиск точек роста маркетплейса + микро-эксперимент
 **Задача**: Найти причины падения монетизации во второй половине года; протестировать гипотезу стимулирования низкоконверсионного трафика  
 **Инструменты**: Python (pandas, plotly, scipy), сегментация, воронки, A/B-тест, Z-тест  
-**Результат**: Бонус на первую покупку дал **+651%** к конверсии среди пользователей TikTok (p < 0,000001); механика рекомендована к масштабированию при контроле стоимости стимула  
+**Результат**: Бонус на первую покупку поднял конверсию среди пользователей TikTok с **1,0% до 7,5%** (+6,5 п.п., p < 0,000001) без падения среднего чека; механика рекомендована к масштабированию при контроле стоимости стимула  
 [🔗 Подробнее →](https://github.com/AnastasiaPatrusheva/Data-Analytics-Portfolio/tree/master/marketplace-analysis)
+
+### ⚙️ Проект 5: ETL-пайплайн аналитики стримингового сервиса
+**Задача**: Ежедневно превращать сырые логи прослушиваний стримингового сервиса в витрины для BI — по типам контента, географии и сегментам аудитории, без ручных выгрузок и с возможностью пересчитать историю  
+**Инструменты**: PySpark, Apache Airflow, ClickHouse, Apache Superset, Parquet, Docker, pytest  
+**Результат**: Ежедневный пайплайн, обрабатывающий данные по одной дате: контроль качества до загрузки, повторный запуск без дублей, история за 102 дня пересчитана (**102 запуска без сбоя**); дашборд из 5 графиков в Superset  
+[🔗 Подробнее →](https://github.com/AnastasiaPatrusheva/Data-Analytics-Portfolio/tree/master/streaming-content-etl)
 
 ---
 
